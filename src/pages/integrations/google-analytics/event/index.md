@@ -193,6 +193,7 @@ ProductSKU | ic |Yes | The SKU of a product.
 ProductCategory | iv |No | A category to which the product belongs.
 ProductUnitPrice | ip |Yes | The price of a product. If missing, mParticle will use 0.
 ProductQuantity | iq |Yes | The quantity of a product. If missing, mParticle will use 0.
+ProductBrand | br |No | The brand of a product.
 
 **Additional eCommerce Tracking Guidance**
 
